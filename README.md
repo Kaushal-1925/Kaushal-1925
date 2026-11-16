@@ -45,27 +45,30 @@ I'm a Computer Science undergraduate at **NIT Sikkim (Class of 2028)**, passiona
 
 ## 🚀 Featured Projects
 
-### 🤖 CodeForge AI
-An autonomous multi-agent software engineering system designed to help automate software development workflows.
+### 🔍 [CrimeLens](https://github.com/Kaushal-1925/CrimeLens)
+An end-to-end Machine Learning & NLP system for binary crime detection and incident triage with negation-preserving text processing and an interactive Streamlit frontend.
+- **89.68% Test Accuracy** & **0.9552 ROC-AUC** with Multinomial Naive Bayes
+- Negation-preserving N-gram TF-IDF pipeline preventing false positives
+- Production multi-page Streamlit application & 6-page publication-grade PDF report
 
-- Multi-agent orchestration and task execution
+### 🤖 [CodeForge AI](https://github.com/Kaushal-1925/CodeForge-AI)
+An autonomous multi-agent software engineering system designed to automate software development workflows.
+- Multi-agent orchestration, architectural design, and automated code review
 - Built with Python, LangGraph, Groq, and PostgreSQL
-- Backend architecture with SQLAlchemy, Alembic, and Docker
+- Full backend architecture with SQLAlchemy, Alembic, and Docker
 
-### 🔬 ResearchOS
-A multi-agent AI research system designed to assist with research workflows and information gathering.
-
-- LLM-powered research workflows
+### 🔬 [ResearchOS](https://github.com/Kaushal-1925/Multi-Agent-Ai-Research-System)
+A multi-agent AI research system designed to automate comprehensive web and academic research workflows.
+- LLM-powered autonomous research pipelines with iterative synthesis
 - Built using LangChain, LangGraph, Gemini, and Streamlit
 
-### 🧠 GPT-2 From Scratch
-An implementation of a GPT-style Transformer language model to understand the architecture and fundamentals behind modern language models.
+### 🏔️ [Sikkim Tourism AI Assistant](https://github.com/Kaushal-1925/Tourism-Chatbot)
+An official, intelligent Agent-based RAG Chatbot designed for the **Sikkim Tourism & Civil Aviation Department**.
+- Multilingual tourist assistance, permits, itineraries, and travel safety
+- Built with Python, RAG retrieval pipeline, and interactive web interface
 
-### 🏆 Name That LLM
-Working on a multiclass text classification challenge to identify which language model generated a given response.
-
-- Experimenting with TF-IDF, Logistic Regression, and SVM
-- Exploring feature engineering, model evaluation, and ensemble techniques
+### 🧠 [Building LLM From Scratch](https://github.com/Kaushal-1925/Building-llm-from-scratch)
+Foundational implementation of transformer language models, causal multi-head self-attention, and autoregressive decoding strategies in PyTorch.
 
 ---
 
